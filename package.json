@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/Delano83/Treehouse_Project-10",
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
